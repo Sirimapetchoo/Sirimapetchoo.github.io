@@ -1,13 +1,14 @@
-#l welcome to Sirimapetchoo Blog
-## สวัสดีค่ะ
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-[I'm an inline-style link](https://www.google.com)
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
