@@ -1,15 +1,17 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: Sirimapetchoo
+title: my resume
+permalink: /resume/
 ---
+-Bs.c.Computer Science,Ubon Ratchathani
 
-Some information about you!
+### More Sirima
 
-### More Information
+#Experience-web Developer Client Technical
 
-A place to include any other types of information that you'd like to include about yourself.
+นักศักษา สาขาวิทยาการคอมพิวเตอร์ คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏอุบลราชธานี
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Education 
+-Bs.c.Computer Science,Ubon Ratchathani
+Ratchabhat University
+-High School
