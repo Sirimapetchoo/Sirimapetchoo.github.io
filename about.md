@@ -1,11 +1,12 @@
 ---
-layout: Sirimapetchoo
+layout: koontida82
 title: my resume
 permalink: /resume/
 ---
--Bs.c.Computer Science,Ubon Ratchathani
 
-### More Sirima
+
+
+### More koontida82
 
 #Experience-web Developer Client Technical
 
@@ -15,3 +16,5 @@ permalink: /resume/
 -Bs.c.Computer Science,Ubon Ratchathani
 Ratchabhat University
 -High School
+
+[email@domain.com](mailto:email@domain.com)
