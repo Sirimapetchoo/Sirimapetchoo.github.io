@@ -1,5 +1,5 @@
 ---
 layout: post
-title:weicomeSirima Blog
+title:welcomeSirima Blog
 ---
 
