@@ -14,11 +14,11 @@ avatar: https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-1/c1.0.160.160/p160x160/1
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:-
-  dribbble:-
+footer-links:
+  dribbble:
   email: sirimaqq0312
-  facebook:-
-  flickr:-
+  facebook:
+  flickr:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
